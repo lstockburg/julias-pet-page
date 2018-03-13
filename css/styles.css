@@ -1,0 +1,27 @@
+h1 {
+  color: #4277f4;
+  text-align: center;
+}
+
+h2 {
+  color: #246052;
+}
+
+h3 {
+  color: #503024;
+  font-family: cursive;
+}
+
+body {
+  padding: 40px;
+}
+
+#hobbies1 {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+#hobbies2 {
+  padding-left: 100px;
+  padding-right: 100px;
+}
