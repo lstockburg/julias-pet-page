@@ -1,6 +1,6 @@
 # _Pet Blog_
 
-### _This is a blog about pets. It will inform you about pets., 3.12.18
+### _This is a blog about pets. It will inform you about pets, 3.12.18_
 
 ### By _**Julia Sheremet and Dawn Mott**_
 
@@ -10,9 +10,9 @@ _This is an html blog. Its purpose is to share information with other pet owners
 
 ## Setup/Installation Requirements
 
-*_Establish connection with internet_
-*_Open web browser of choice_
-*_No further requirements_
+* _Establish connection with internet_
+* _Open web browser of choice_
+* _No further requirements_
 
 ## Known Bugs
 
@@ -24,8 +24,8 @@ _Please contact Julia and Dawn at jd@jd.net._
 
 ## Technologies Used
 
-*_HTML_
-*_GitHub_
+* _HTML_
+* _GitHub_
 
 ### License
 
