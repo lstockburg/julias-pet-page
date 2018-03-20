@@ -1,0 +1,14 @@
+$(document).ready(function(){
+  $(".button-black").click(function(){
+    $("body").removeClass();
+    $("body").addClass("body-black");
+  });
+  $(".button-white").click(function(){
+    $("body").removeClass();
+    $("body").addClass("body-white");
+  });
+  $(".button-default").click(function(){
+    $("body").removeClass();
+    $("body").addClass("body-default");
+  });
+});
